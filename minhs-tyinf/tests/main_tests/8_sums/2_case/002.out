@@ -1,0 +1,2 @@
+main :: forall 'b1. 'b1 + (Bool * Int) = let x = case Inl (True, 7) of {Inl x -> Inr x; Inr y -> Inl y;};
+in x

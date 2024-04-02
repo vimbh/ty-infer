@@ -1,0 +1,1 @@
+main :: forall 'a1 'b1. (Bool + 'a1) + 'b1 = Inl (Inl True)

@@ -1,0 +1,4 @@
+main = let y = 1 ;
+       in 
+         let x = True ;
+           in (y * y, x )

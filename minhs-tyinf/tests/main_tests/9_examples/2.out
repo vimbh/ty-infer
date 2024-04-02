@@ -1,0 +1,3 @@
+main :: forall 'a1. Int + 'a1 = if (True)
+                                then (Inl 1)
+                                else (Inr (False))
